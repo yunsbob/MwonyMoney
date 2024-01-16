@@ -33,4 +33,4 @@ app:
     authorizedRedirectUris: http://j9b310.p.ssafy.io/oauth/redirect
 
 jwt:
-  key: mwonimoneymwonimoneymwonimoneymwonimoneymwonimoneymwonimoneymwonimoneymwonimoneymwonimoney
+  key:
